@@ -6,3 +6,6 @@ openai
 sora
 claude
 Anthropic
+BTC
+Crypto
+!广告
